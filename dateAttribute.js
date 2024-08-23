@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // Get today's date
+    // Get today's datedadfasdffasd
     const today = new Date();
 
     // Cache the calculated values
